@@ -1,0 +1,8 @@
+fastapi
+agno
+openai
+pgvector
+pypdf
+psycopg[binary]
+sqlalchemy
+uvicorn
